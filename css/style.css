@@ -1,0 +1,95 @@
+body{
+	background-color: #312525;
+	margin:0;
+	background-image: url('../img/DSC_00363.jpg');
+	background-size: 100% ;
+	background-attachment: fixed;
+	color:white;
+	font-weight: 100;
+	font-family: "黑體","Heiti TC","微軟正黑體", "Microsoft JhengHei";
+}
+
+.section1{
+		height:800px;
+}
+#section2{
+	background-color: hsla(238, 31%, 20%, 0.9);
+	height:1100px;
+
+}
+#section3{
+	background-color: hsla(20, 100%, 95%, 1);
+	height:1000px;
+}
+#section4{
+	background-color: hsla(348, 100%, 65%, 0.8);
+	height:800px;
+}
+
+h1{
+	font-weight: lighter;
+	letter-spacing: 2px;
+	color:white;
+}
+.year{
+	color:#9595b2;
+	text-align: center;
+}
+#section2 .grid_1{
+	text-align: center;
+}
+
+.bar{
+	width:15px;
+	height:80px;
+	background-color:orange;
+	border-radius: 10px;
+}
+.bar_2{
+	height:135px;
+}
+
+.bar_3{
+	height:190px;
+}
+.line_bar{
+	height: 15px;
+	width:135px;
+	border-radius: 10px;
+	background-color: orange;
+	margin-top: 28px;
+}
+ .line_bar_1{
+	width:80px;
+}
+ .line_bar_2{
+	width:160px;
+}
+.line_bar_3{
+	width:240px;
+}
+.line_bar_4{
+	width:320px;
+}
+.line_bar_5{
+	width:400px;
+}
+#section3 h1{
+	color: #1f1f1f;
+}
+#section4 i{
+	font-size:50px; 
+}
+#section5 .grid_4 i{
+	font-size:50px;
+}
+#section5 a:link{
+	color:white;
+}
+#section5 a:hover{
+	color:hsla(168, 86%, 50%, 1);
+}
+#section5 a:visited{
+	color:white;
+}
+
